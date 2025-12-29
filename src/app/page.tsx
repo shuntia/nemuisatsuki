@@ -18,5 +18,8 @@ export default function Home() {
         </div>
       </Card>
     </main>
+    <div className="text-center text-gray-500 pl-[25vw] pr-[25vw] pt-10 font-light">
+      All media used on this site are subject to their respective copyrights. This site is a fan-made unofficial website and is not affiliated with or endorsed by the original creators. You are not permitted to reproduce, distribute, or create derivative works based on the content without prior permission from the copyright holders.
+    </div>
   </>;
 }
