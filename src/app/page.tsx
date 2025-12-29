@@ -15,6 +15,7 @@ export default function Home() {
         <div className="pl-40 pr-40 mt-4 mb-4 flex justify-evenly">
           <Link href="https://twitter.com/nyaqj"><Button>公式Twitterへ移動</Button></Link>
           <Link href="https://nyaqj.myportfolio.com"><Button>公式ポートフォリオへ移動</Button></Link>
+          <Link href="https://youtube.com/@nyaqj"><Button>公式Youtubeへ移動</Button></Link>
         </div>
       </Card>
     </main>
