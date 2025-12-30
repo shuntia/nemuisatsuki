@@ -21,6 +21,10 @@
   --chart-active-dot: #000;
 }
 
+.themedbg {
+  background-color: var(--background);
+}
+
 .dark {
   --background: oklch(26.29% 0.0683 327.3);
   --secondary-background: oklch(23.93% 0 0);
