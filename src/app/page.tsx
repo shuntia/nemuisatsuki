@@ -42,7 +42,7 @@ export default function Home() {
         <div className="text-xl font-light flex">
           <Card className="p-10 flex-1 mr-5">
             <div className="text-4xl font-light">眠井さつき</div>
-            <div className="text-xl mt-2 font-light">
+            <div className="text-xl mt-10 font-light">
               キミのことを救済するために電子の墓地からやってきた
               <br />
               ばーちゃる墓守Vsinger 眠井さつきです
