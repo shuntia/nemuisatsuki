@@ -1,6 +1,5 @@
-
 import { Public_Sans } from "next/font/google";
-import localFont from "next/font/local"
+import localFont from "next/font/local";
 
 export const poor_things = localFont({
   src: "./fonts/POOR_THINGS.ttf",

@@ -14,12 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        style={public_sans.style}
-        className={`antialiased`}
-      >
+      <body style={public_sans.style} className={`antialiased`}>
         {children}
       </body>
-    </html >
+    </html>
   );
 }
