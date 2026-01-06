@@ -44,13 +44,13 @@ export default function Page() {
                   夢を叶えさせてくれてありがとう<br />
                   キミを夢の中でずっと待ってるからね<br />
                 </div>
-                <div className="text-sm font-light text-gray-500">
-                  vocal 眠井さつき <Link href="https://twitter.com/nyaqj">@nyaqj</Link><br />
-                  music gaburyu <Link href="https://twitter.com/gabustep">@gabustep</Link><br />
-                  illustration 組長 <Link href="https://twitter.com/kwiozsn">@kwiozsn</Link><br />
-                  movie ぱるふ <Link href="https://twitter.com/PALF_MovieWorks">@PALF_MovieWorks</Link><br />
-                </div>
               </Link>
+              <div className="text-sm font-light text-gray-500">
+                vocal 眠井さつき <Link href="https://twitter.com/nyaqj">@nyaqj</Link><br />
+                music gaburyu <Link href="https://twitter.com/gabustep">@gabustep</Link><br />
+                illustration 組長 <Link href="https://twitter.com/kwiozsn">@kwiozsn</Link><br />
+                movie ぱるふ <Link href="https://twitter.com/PALF_MovieWorks">@PALF_MovieWorks</Link><br />
+              </div>
             </Button>
           </div>
         </Card>
