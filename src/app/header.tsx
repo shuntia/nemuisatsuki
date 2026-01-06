@@ -14,7 +14,7 @@ export function Header() {
           height={1255}
         />
       </Link>
-      <div className="justify-self-end h-full justify-evenly pt-2 hidden md:flex">
+      <div className="justify-self-end h-full justify-evenly hidden md:flex">
         <Link href={`/works`}>
           <Button>Works</Button>
         </Link>
