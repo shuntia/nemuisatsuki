@@ -37,6 +37,7 @@ export default function Page() {
                     sizes="(min-width: 768px) 50vw, 100vw"
                   />
                 </div>
+                <div className="h-5" />
                 <Label className="text-2xl font-light pt-5">ナイトメア</Label>
                 <div className="p-5 font-light">
                   first single「ナイトメア」<br />

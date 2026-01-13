@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export function Header() {
   return (
-    <div className="pt-3 pl-10 pb-1 pr-10 text-4xl rounded-2xl sticky top-0 left-0 themedbg w-screen flex h-20">
+    <div className="pt-3 pl-10 pb-1 pr-10 text-4xl rounded-2xl sticky top-0 left-0 themedbg w-screen flex h-20 z-10">
       <Link href={`/`}>
         <Image
           alt="NEMUISATSUKI"
